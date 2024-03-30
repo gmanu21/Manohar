@@ -28,9 +28,19 @@
 * 🎶 Jamming to the rhythm of the binary beat and debugging with style
 * ⚡ Fun fact: I once wrote a program that made my computer sing karaoke!
 
-<div style="float: right;">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=gmanu21&theme=chartreuse-dark&show_icons=true" alt="Manohar"/></p>
-</div>
+<table>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=gmanu21&theme=chartreuse-dark&show_icons=true" alt="Manohar" />
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmanu21&hide_progress=true" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
