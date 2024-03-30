@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=gmanu21&theme=chartreuse-dark&show_icons=true" alt="Manohar" />
     </td>
       <td style="width: 32.5%;">
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gmanu21" alt="GitHub Streak" /></a>
+        <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=gmanu21&theme=onedark" />
       </td>
     <td style="width: 33.5%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmanu21&hide_progress=true" />
