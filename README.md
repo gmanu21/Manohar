@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat!💬 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </h1>
 
 <p align="center">
