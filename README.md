@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&&theme=shadow_blue&height=250&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Universe!&descAlignY=51&descAlign=62" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=250&section=header&text=Hi%20there%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Universe!&descAlignY=51&descAlign=62" />
 </p>
 
 <h1 align="center">
@@ -59,5 +58,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=125&section=footer"/>
 </p>
