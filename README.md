@@ -27,6 +27,10 @@
 * 🎶 Jamming to the rhythm of the binary beat and debugging with style
 * ⚡ Fun fact: I once wrote a program that made my computer sing karaoke!
 
+<div style="float: right;">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=gmanu21&show_icons=true" alt="Manohar" /></p>
+</div>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -43,7 +47,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
