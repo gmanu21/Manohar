@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=37D5D6&text=Hello!&height=100&section=header&textColor=0000FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=40&desc=DevRealm&descSize=60&stroke=00FF00&style=color:blue;fill:#a9fef7;" />
 </p>
 
 <h1 align="center">
@@ -28,7 +28,7 @@
 * ⚡ Fun fact: I once wrote a program that made my computer sing karaoke!
 
 <div style="float: right;">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=gmanu21&show_icons=true" alt="Manohar" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=gmanu21&theme=chartreuse-dark&show_icons=true" alt="Manohar"/></p>
 </div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
